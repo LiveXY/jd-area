@@ -1,0 +1,15 @@
+{
+  "name": "jd-area",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jdarea.js",
+  "dependencies": {
+    "request": "^2.81.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
